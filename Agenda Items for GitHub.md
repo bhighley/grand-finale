@@ -17,3 +17,6 @@
 * Core Compentencies by Country 
    * For example - our analytics folks are in APAC, where are yours?
 * How do we handle engagement as two companies? 
+* Metrics to calculate ROI
+   * Both from Public and Private repo strategy
+* How have you approached the cultural change
