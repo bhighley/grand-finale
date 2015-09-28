@@ -15,6 +15,7 @@ HP Mutual Action Plan
 |Gap analysis from HP|Lin|TBD| | | |
 |How can we contribute back to improve the Analytics in the core app?|Lin|TBD| | | |
 |**Face to Face Meetings**| | | | | |
-|Greg and Bill Sept 27th or 28th| Greg and Bill | | | | |
-|HP CIO + GH CEO |Bill |David + Daniela | Week of October 5th |TBD | Still awaiting Ralph's schedule |
+|Greg and Bill Sept 27th or 28th| Greg and Bill |Tuesday| | |
+|**Training Plan**| | | | | |
+|How do we onboard and increase standarization| Greg and Bill |Monday| | |
 |**Completed**| | | | | |
