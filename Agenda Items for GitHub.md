@@ -14,3 +14,6 @@
       * How do we get an octohammer?
 * With the purchase will HPE and HPI get X number of organziation and free private repo's on GitHub.com
 * Get advice on the various users types (Internal, ODM, Solution Partners)
+* Core Compentencies by Country 
+   * For example - our analytics folks are in APAC, where are yours?
+* How do we handle engagement as two companies? 
