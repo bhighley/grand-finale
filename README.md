@@ -8,7 +8,6 @@ Collaboration point for Greg, Joan and Bill
 |**Normalization**| | | | | |
 |Sync on Performance|Greg & Bill|Monday| | In case there is recognition at end of the year|
 |Agenda items for GitHub |Greg & Bill|Monday| | |
-|~~Points Allocation~~|~~Greg & Bill~~|~~Monday~~| | |
 |**Migration**| | | | | |
 |Migrating from what / where?| | | | | |
 |Migration sequencing and planning| | | | | |
@@ -19,3 +18,4 @@ Collaboration point for Greg, Joan and Bill
 |**Training Plan**| | | | | |
 |How do we onboard and increase standarization| Greg and Bill |Monday| | |
 |**Completed**| | | | | |
+|~~Points Allocation~~|~~Greg & Bill~~|~~Monday~~| |~~Completed~~|
