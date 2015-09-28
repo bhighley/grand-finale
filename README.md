@@ -1,7 +1,7 @@
-# grand-finale
+# Grand Finale - Last Hurrah - 
 Collaboration point for Greg, Joan and Bill
 
-HP Mutual Action Plan
+# HP Mutual Action Plan
 
 |Action|Owner|Target Date|Completion Date|Notes|
 |--------|------|------|------|-----|-------|
