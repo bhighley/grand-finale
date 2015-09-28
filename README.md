@@ -13,10 +13,6 @@ HP Mutual Action Plan
 |Migrating from what / where?| | | | | |
 |Migration sequencing and planning| | | | | |
 |Provide documentation for subsequent migrations| | | | | |
-|**Analytics**| | | | | |
-|Review of what exists|Bill and Lin|David+TBD| | | |
-|Gap analysis from HP|Lin|TBD| | | |
-|How can we contribute back to improve the Analytics in the core app?|Lin|TBD| | | |
 |**Face to Face Meetings**| | | | | |
 |Greg and Bill Sept 27th or 28th| Greg and Bill |Tuesday| | |
 |**Training Plan**| | | | | |
