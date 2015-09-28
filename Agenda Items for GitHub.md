@@ -4,4 +4,4 @@
 * Improvements to search to include improved search that spans GHE Wiki pages, GitHub pages
 * With the purchase will HPE and HPI get X number of organziation and free public repo's on GitHub.com
 
-[] test 1
+- [ ]test 1
