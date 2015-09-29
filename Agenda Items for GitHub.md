@@ -20,3 +20,5 @@
 * Metrics to calculate ROI
    * Both from Public and Private repo strategy
 * How have you approached the cultural change
+* Pros and Cons of having PRimary and Replicas in differnet geographic regions
+* 
