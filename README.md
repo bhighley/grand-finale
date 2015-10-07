@@ -12,7 +12,7 @@ Collaboration point for Greg, Joan and Bill
 |How do we onboard and increase standarization| Greg and Bill |Monday| | |
 |**Completed**| | | | | |
 |~~Points Allocation~~|~~Greg & Bill~~|~~Monday~~| |~~Completed~~|
-|~~Sync on Performance~~|~~Greg & Bill|Monday~~| | ~~In case there is recognition at end of the year~~|
+|~~Sync on Performance~~|~~Greg & Bill~~|~~Monday~~| | ~~In case there is recognition at end of the year~~|
 |~~Agenda items for GitHub~~ |~~Greg & Bil~~l|~~Monday~~| | |
 |~~Migrating from what / where?~~| | | | | |
 |~~Migration sequencing and planning~~| | | | | |
