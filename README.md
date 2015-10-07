@@ -17,5 +17,5 @@ Collaboration point for Greg, Joan and Bill
 |~~Migrating from what / where?~~| | | | | |
 |~~Migration sequencing and planning~~| | | | | |
 |~~Provide documentation for subsequent migrations~~| | | | | |
-|~~Greg and Bill Sept 27th or 28th~~|~~ Greg and Bill~~ |~~Tuesday~~| | |
+|~~Greg and Bill Sept 27th or 28th~~|~~Greg and Bill~~ |~~Tuesday~~| | |
 |~~Greg and Bill Sept 26 or 28 chat with Kim Lager regarding ClearCases~~| ~~Greg and Bill~~|~~Monday or Tuesday~~| | |
